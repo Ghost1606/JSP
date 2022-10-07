@@ -27,7 +27,7 @@
 |setProperty|<jsp:setProperty ... />|자바빈즈의 프로퍼티 값을 설정합니다.|
 |getProperty|<jsp:getProperty ... />|자바빈즈의 프로퍼티 값을 얻어옵니다.|
 |param|<jsp:param ... />|<jsp:forward>,<jsp:include>,<jsp:plugin> 태그에 인자를 추가합니다.|
-|plugin|<jsp:plugin ... />|웹 프라우저에 자바 애플릿을 실행합니다. 자바 플러그인에 대한 OBJECT 또는 EMBED 태그를 만드는 브라우저별 코드를 생성합니다.|
+|plugin|<jsp:plugin ... />|웹 프라우저에 자바 애플릿을 실행합니다. 자바 플러그인에 대한 OBJECT 또는<br> EMBED 태그를 만드는 브라우저별 코드를 생성합니다.|
 |element|<jsp:element ... />|동적XML 요소를 설정합니다.|
 |attribute|<jsp:attribute ... />|동적으로 정의된 XML 요소의 속성을 설정합니다.|
 |body|<jsp:body ... />|동적으로 정의된 XML 요소의 몸체를 설정합니다.|
